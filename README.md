@@ -5,7 +5,7 @@
 
 ## Repository Description
 
-This repository contains the code for ...
+This repository contains a Jupyter notebook which demonstrates how to analyze tech gadget sales in the US in 2019.
 
 ## Instructions
 
@@ -18,4 +18,4 @@ xxx
 
 <br>
 
-*1st Completion Date: Nov 00, 2022*
+*1st Completion Date: Nov 25, 2022*
