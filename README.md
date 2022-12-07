@@ -7,6 +7,12 @@
 
 This repository contains a Jupyter notebook which demonstrates how to analyze tech gadget sales in the US in 2019. We use the Python Pandas and Matplotlib libraries to analyze and answer business questions about 12 months worth of sales data here. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
+## Instructions
+
+### To Install Python Pandas Library
+
+- [Pandas library](https://pandas.pydata.org/pandas-docs/stable/install.html)
+
 ## References
 
 - [pandas.DataFrame.any documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.any.html)

@@ -6,8 +6,6 @@ The other option is to click the green "clone or download" button and then click
 
 Installing [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
-Installing [Pandas library](https://pandas.pydata.org/pandas-docs/stable/install.html)
-
 ## Background Information
 
 We start by cleaning our data. Tasks during this section include:
