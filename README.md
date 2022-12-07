@@ -17,6 +17,17 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 
 For more information, please refer to [Installing Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-pandas)
 
+### To Install Jupyter Notebook
+
+*Prerequisite*: Python
+
+Python is a requirement for installing the Jupyter Notebook.
+
+- Run `pip3 install --upgrade pip` to upgrade to the latest version of `pip`
+- Run `pip3 install jupyter` to 
+
+For more information, please refer to [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
+
 ## References
 
 - [pandas.DataFrame.any documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.any.html)
