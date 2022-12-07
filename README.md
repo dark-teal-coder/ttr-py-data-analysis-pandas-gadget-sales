@@ -13,6 +13,7 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 - [pandas.DataFrame.dropna documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
 - [pandas.to_numeric documentation](https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html)
 - [pandas.to_datetime documentation](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+- [pandas.Series.dt.month documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month.html)
 
 <br>
 
