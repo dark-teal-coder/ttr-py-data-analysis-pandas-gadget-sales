@@ -36,6 +36,8 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 - [pandas.to_datetime documentation](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
 - [pandas.Series.dt.month documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month.html)
 - [pandas.DataFrame.groupby documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
+- [matplotlib.pyplot.plot documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
+- [matplotlib.pyplot.grid documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.grid.html)
 
 <br>
 
