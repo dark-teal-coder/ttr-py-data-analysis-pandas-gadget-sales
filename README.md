@@ -14,6 +14,7 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 - [pandas.to_numeric documentation](https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html)
 - [pandas.to_datetime documentation](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
 - [pandas.Series.dt.month documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.month.html)
+- [pandas.DataFrame.groupby documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
 
 <br>
 
