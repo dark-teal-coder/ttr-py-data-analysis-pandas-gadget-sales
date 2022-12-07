@@ -21,12 +21,12 @@ For more information, please refer to [Installing Pandas](https://pandas.pydata.
 
 *Prerequisite*: Python[^note]
 
-[^note]: Python is a requirement for installing the Jupyter Notebook.
-
 - Run `pip3 install --upgrade pip` to upgrade to the latest version of `pip`
 - Run `pip3 install jupyter` to install Jupyter Notebook
 
-For more information, please refer to [Installing the classic Jupyter Notebook interface](https://docs.jupyter.org/en/latest/install/notebook-classic.html#installing-the-classic-jupyter-notebook-interface).
+For more information, please refer to [Installing the Classic Jupyter Notebook Interface](https://docs.jupyter.org/en/latest/install/notebook-classic.html#installing-the-classic-jupyter-notebook-interface).
+
+[^note]: Python is a requirement for installing the Jupyter Notebook.
 
 ## References
 
