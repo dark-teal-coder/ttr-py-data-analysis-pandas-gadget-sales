@@ -11,7 +11,11 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 
 ### To Install Python Pandas Library
 
-- [Pandas library](https://pandas.pydata.org/pandas-docs/stable/install.html)
+- Open a command-line interface
+- Type `pip install pandas`
+- Press [Enter]
+
+For more information, please refer to [Installing Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html#installing-pandas)
 
 ## References
 
