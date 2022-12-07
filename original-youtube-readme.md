@@ -1,6 +1,4 @@
-# XXX
-
-## Setup
+# Setup
 
 To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found [here](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
@@ -11,8 +9,6 @@ Installing [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.h
 Installing [Pandas library](https://pandas.pydata.org/pandas-docs/stable/install.html)
 
 ## Background Information
-
-Here we use Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
 We start by cleaning our data. Tasks during this section include:
 
