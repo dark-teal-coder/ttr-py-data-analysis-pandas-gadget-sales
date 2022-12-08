@@ -39,6 +39,8 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 - [matplotlib.pyplot.plot documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html)
 - [matplotlib.pyplot.grid documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.grid.html)
 - [pandas.DataFrame.duplicated documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html)
+- [xxx documentation]()
+- [matplotlib.pyplot.subplots documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
 
 <br>
 
