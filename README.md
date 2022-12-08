@@ -41,6 +41,7 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 - [pandas.DataFrame.duplicated documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html)
 - [xxx documentation]()
 - [matplotlib.pyplot.subplots documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
+- [matplotlib.axes.Axes.twinx documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.twinx.html)
 
 <br>
 
