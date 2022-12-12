@@ -41,7 +41,9 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 - [pandas.DataFrame.duplicated documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html)
 - [pandas.DataFrame.transform documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.transform.html)
 - [itertools.combinations documentation](https://docs.python.org/3/library/itertools.html#itertools.combinations)
-= [itertools.combinations() in Python](https://www.codespeedy.com/itertools-combinations-in-python/)
+- [itertools.combinations() in Python](https://www.codespeedy.com/itertools-combinations-in-python/)
+- [collections.Counter documentation](https://docs.python.org/3/library/collections.html#collections.Counter)
+- [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/)
 - [matplotlib.pyplot.subplots documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
 - [matplotlib.axes.Axes.twinx documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.twinx.html)
 
