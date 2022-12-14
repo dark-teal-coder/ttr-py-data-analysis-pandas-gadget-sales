@@ -1,7 +1,7 @@
 <!-- README file for YouTube tutorials -->
 <!-- [YouTube](https://youtu.be/eMOA1pPVUc4) -->
 
-# Python Data Analysis of Tech Gadgets Sales with Pandas
+# Python Data Analysis of Tech Gadget Sales with Pandas
 
 ## Repository Description
 
