@@ -49,4 +49,4 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 
 <br>
 
-*1st Completion Date: Dec 11, 2022*
+*1st Completion Date: Dec 13, 2022*
