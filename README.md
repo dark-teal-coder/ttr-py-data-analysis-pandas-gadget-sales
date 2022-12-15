@@ -62,3 +62,7 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 <br>
 
 *1st Completion Date: Dec 13, 2022*
+
+```math
+\sqrt{3}
+```
