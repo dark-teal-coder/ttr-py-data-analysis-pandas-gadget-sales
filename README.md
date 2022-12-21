@@ -21,7 +21,7 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 
 ## Instructions
 
-### To get all the files in the current repository
+### To Get All the Files in the Current Repository
 
 - Click [Code]
 - Click [Download ZIP]
