@@ -5,12 +5,12 @@
 
 ## Project
 
-- <ins>Title</ins>: Python Data Analysis of Tech Gadget Sales with Pandas
-- <ins>Difficulty</ins>:
+- Title: *Python Data Analysis of Tech Gadget Sales with Pandas*
+- Difficulty:
   - [ ] Beginner
   - [x] Intermediate
   - [ ] Advanced
-- <ins>Scale</ins>:
+- Scale:
   - [x] Small
   - [ ] Medium
   - [ ] Big
@@ -62,4 +62,4 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 
 <br>
 
-*1st Completion Date: Dec 13, 2022*
+*1st Completion Date: Dec 20, 2022*
