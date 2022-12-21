@@ -21,14 +21,13 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 
 We walk through different Pandas & Matplotlib methods below.
 
-- Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+- Concatenating multiple CSVs together to create a new DataFrame (`pd.concat()`)
 - Adding columns
-- Parsing cells as strings to make new columns (.str)
-- Using the .apply() method
-- Using groupby to perform aggregate analysis
+- Parsing cells as strings to make new columns (`.str`)
+- Using the `apply()` method
+- Using `groupby()` to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
-
 
 ## Instructions
 
