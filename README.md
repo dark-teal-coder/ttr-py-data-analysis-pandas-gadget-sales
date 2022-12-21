@@ -5,12 +5,12 @@
 
 ## Project
 
-- Title: *Python Data Analysis of Tech Gadget Sales with Pandas*
-- Difficulty:
+- **Title**: *Python Data Analysis of Tech Gadget Sales with Pandas*
+- **Difficulty**:
   - [ ] Beginner
   - [x] Intermediate
   - [ ] Advanced
-- Scale:
+- **Scale**:
   - [x] Small
   - [ ] Medium
   - [ ] Big
