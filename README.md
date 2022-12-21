@@ -37,6 +37,10 @@ We walk through different Pandas & Matplotlib methods below.
 - Click [Download ZIP]
 - Extract the .zip file to the working directory
 
+<!--
+To access all of the files, fork this repo and then clone it locally. See [instructions here](https://help.github.com/en/github/getting-started-with-github/fork-a-repo).
+-->
+
 ### To Install Python Pandas Library
 
 - Open a command-line interface
