@@ -101,7 +101,7 @@ if __name__ == '__main__':
 
         if random.random() < 0.07:
           df.loc[i] = write_row(order_number, "Wired Headphones", order_date, address)
-          i += 1 
+          i += 1
 
       elif product_choice == "Google Phone" or product_choice == "Vareebadd Phone":
         if random.random() < 0.18:
@@ -112,7 +112,7 @@ if __name__ == '__main__':
           i += 1
         if random.random() < 0.07:
           df.loc[i] = write_row(order_number, "Wired Headphones", order_date, address)
-          i += 1 
+          i += 1
 
       if random.random() <= 0.02:
         product_choice = random.choices(product_list, weights)[0]
