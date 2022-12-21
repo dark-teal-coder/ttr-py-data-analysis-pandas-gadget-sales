@@ -60,6 +60,6 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 - [matplotlib.pyplot.subplots documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html)
 - [matplotlib.axes.Axes.twinx documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.twinx.html)
 
-<br>
+&nbsp;
 
 *1st Completion Date: Dec 20, 2022*
