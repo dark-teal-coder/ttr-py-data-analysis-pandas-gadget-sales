@@ -21,6 +21,12 @@ This repository contains a Jupyter notebook which demonstrates how to analyze te
 
 ## Instructions
 
+### To get all the files in the current repository
+
+- Click [Code]
+- Click [Download ZIP]
+- Extract the .zip file to the working directory
+
 ### To Install Python Pandas Library
 
 - Open a command-line interface
