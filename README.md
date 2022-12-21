@@ -63,3 +63,6 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 &nbsp;
 
 \# *1st Completion Date: Dec 20, 2022* #
+
+*1st Completion Date: Dec 20, 2022*
+&nbsp;
