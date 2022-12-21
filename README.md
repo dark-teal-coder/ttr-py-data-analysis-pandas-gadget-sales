@@ -61,5 +61,5 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 - [matplotlib.axes.Axes.twinx documentation](https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.twinx.html)
 
 &nbsp;
-*1st Completion Date: Dec 20, 2022*
-&nbsp;
+
+*1st Completion Date: Dec 20, 2022*\
