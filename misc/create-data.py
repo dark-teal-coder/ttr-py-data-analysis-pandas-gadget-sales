@@ -1,9 +1,9 @@
+import pandas as pd
+import numpy as np
 import datetime
 import calendar
 import random
-import numpy
-import pandas as pd
-import uuid
+
 
 products = {
     'iPhone': [700, 10],
@@ -35,7 +35,7 @@ def generate_random_time(month):
         date = datetime.datetime(2019, month, day,12,00)
     else:
         date = datetime.datetime(2019, month, day,20,00)
-    time_offset = numpy.random.normal(loc=0.0, scale=180)
+    time_offset = np.random.normal(loc=0.0, scale=180)
     final_date = date + datetime.timedelta(minutes=time_offset)
     return final_date.strftime("%m/%d/%y %H:%M")
 
@@ -60,7 +60,7 @@ def create_data_csv():
 
 def write_row(order_number, product, order_date, address):
     product_price = products[product][0]
-    quantity = numpy.random.geometric(p=1.0-(1.0/product_price), size=1)[0]
+    quantity = np.random.geometric(p=1.0-(1.0/product_price), size=1)[0]
     output = [order_number, product, quantity, product_price, order_date, address]
     return output
 
@@ -68,11 +68,11 @@ if __name__ == '__main__':
     order_number = 141234
     for month in range(1,13):
         if month <= 10:
-            orders_amount = int(numpy.random.normal(loc=12000, scale=4000))
+            orders_amount = int(np.random.normal(loc=12000, scale=4000))
         elif month == 11:
-            orders_amount = int(numpy.random.normal(loc=20000, scale=3000))
+            orders_amount = int(np.random.normal(loc=20000, scale=3000))
         else: # month == 12
-            orders_amount = int(numpy.random.normal(loc=26000, scale=3000))
+            orders_amount = int(np.random.normal(loc=26000, scale=3000))
 
         product_list = [product for product in products]
         weights = [products[product][1] for product in products]
@@ -129,7 +129,7 @@ if __name__ == '__main__':
 
         order_number += 1
         orders_amount -= 1
-    
+
     month_name = calendar.month_name[month]
     df.to_csv(f"Sales_{month_name}_2019.csv", index=False)
     print(f"{month_name} Complete")
