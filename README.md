@@ -3,6 +3,11 @@
 
 # Python Data Analysis of Tech Gadget Sales with Pandas
 
+## Metadata
+
+- <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
+- <ins>First Published Date</ins>: 2022-12-19
+
 ## Project
 
 - **Title**: *Python Data Analysis of Tech Gadget Sales with Pandas*
