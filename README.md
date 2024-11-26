@@ -67,7 +67,13 @@ For more information, please refer to [Installing the Classic Jupyter Notebook I
 
 [^note]: Python is a requirement for installing the Jupyter Notebook.
 
-## References
+## Credits 
+
+### Contributors 
+
+- [@dark-teal-coder](github.com/dark-teal-coder)
+
+### References 
 
 - [pandas.DataFrame.any documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.any.html)
 - [pandas.DataFrame.dropna documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html)
